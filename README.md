@@ -17,6 +17,11 @@ In the lower right corner, a specification box and scale bar summarize key physi
 <video src="https://github.com/adoni91/assets/Shahid 136 Fixed Wing UAV Demo.mp4" width="80%" controls></video>
 </p>
 
+[![Watch the demo video](https://github.com/adoni91/assets/Shahid-136-Fixed-Wing-UAV-Demo.mp4)]([https://github.com/adoni91/assets/Shahid-136-Fixed-Wing-UAV-Demo.mp4](https://github.com/adoni91/assets/Shahid-136-Fixed-Wing-UAV-Demo.mp4))
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>]([https://github.com/adoni91/assets/Shahid-136-Fixed-Wing-UAV-Demo.mp4](https://github.com/adoni91/assets/Shahid-136-Fixed-Wing-UAV-Demo.mp4))
+
 
 That sounds like an exceptionally robust and advanced engineering setup! Combining a lightweight, agile delta-wing airframe with **PX4 Autopilot**, an **edge-AI companion computer**, and a **long-range communication link** creates a powerful platform for fully autonomous operations.
 

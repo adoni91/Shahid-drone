@@ -13,7 +13,9 @@ In the lower right corner, a specification box and scale bar summarize key physi
 
 * *Agile Flight & Adaptive Pathing*: With a low-inertia 10–12 kg airframe, an adaptive motion planning system (such as real-time trajectory generation, obstacle avoidance, or dynamic waypointing) can execute tight, fluid turns and rapid evasive maneuvers that heavier fixed-wing drones simply cannot pull off.
 
-https://github.com/adoni91/assets/Shahid-136-Fixed-Wing-UAV-Demo.mp4
+https://github.com/user-attachments/assets/869bb4ee-cbdf-4c43-80ae-4a8049330f4d
+
+
 
 That sounds like an exceptionally robust and advanced engineering setup! Combining a lightweight, agile delta-wing airframe with **PX4 Autopilot**, an **edge-AI companion computer**, and a **long-range communication link** creates a powerful platform for fully autonomous operations.
 

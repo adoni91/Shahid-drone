@@ -1,0 +1,4 @@
+This technical blueprint diagram set against a classic blue grid background, detailing the schematic views and dimensions of the **Shahid 136 Fixed Wing UAV**. 
+The layout features four distinct orthogonal views: a detailed **Top View** showcasing its delta-wing shape and central body, a **Side View** illustrating its streamlined profile and fuselage height, a **Front View** highlighting its wing span and vertical wingtip fins, and a **Rear View** displaying the rear pusher-propeller assembly.
+
+In the lower right corner, a specification box and scale bar summarize key physical measurements for the drone. Listed dimensions include a **wingspan** of $2200 mm$, an approximate **fuselage length** of $1500 mm$, a **fuselage height** of approximately $320 mm$, a **wing half** dimension of $1050 mm$, and an estimated **Maximum Takeoff Weight (MTOW)** of $10 / 12 kg$.  

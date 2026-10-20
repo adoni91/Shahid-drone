@@ -3,4 +3,4 @@ The layout features four distinct orthogonal views: a detailed **Top View** show
 
 In the lower right corner, a specification box and scale bar summarize key physical measurements for the drone. Listed dimensions include a **wingspan** of $2200 mm$, an approximate **fuselage length** of $1500 mm$, a **fuselage height** of approximately $320 mm$, a **wing half** dimension of $1050 mm$, and an estimated **Maximum Takeoff Weight (MTOW)** of $10 / 12 kg$.  
 
-![alt text](image-url)
+![alt text](shaid-136.jpeg)

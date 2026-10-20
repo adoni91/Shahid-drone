@@ -7,14 +7,14 @@ In the lower right corner, a specification box and scale bar summarize key physi
 
 **Key Observations** 
 
-*Scaled-Down or RC Concept Design*: A standard real-world Shahed 136 is much larger, measuring roughly $3.5 m$ in length, $2.5 m$ in wingspan, and weighing around $200 kg$. In contrast, this blueprint lists an MTOW (Maximum Takeoff Weight) of only 10–12 kg with a 1.5 m length and 2.2 m wingspan.   
+* *Scaled-Down or RC Concept Design*: A standard real-world Shahed 136 is much larger, measuring roughly $3.5 m$ in length, $2.5 m$ in wingspan, and weighing around $200 kg$. In contrast, this blueprint lists an MTOW (Maximum Takeoff Weight) of only 10–12 kg with a 1.5 m length and 2.2 m wingspan.   
 
-*Enhanced Control Dynamics*: The smaller mass, combined with responsive control surfaces (like large elevons along the delta wing and dual vertical wingtip fins shown in the diagram), would allow for much faster pitch/roll rates and agile, smooth maneuvering compared to full-scale loitering munitions.
+* *Enhanced Control Dynamics*: The smaller mass, combined with responsive control surfaces (like large elevons along the delta wing and dual vertical wingtip fins shown in the diagram), would allow for much faster pitch/roll rates and agile, smooth maneuvering compared to full-scale loitering munitions.
 
-*Agile Flight & Adaptive Pathing*: With a low-inertia 10–12 kg airframe, an adaptive motion planning system (such as real-time trajectory generation, obstacle avoidance, or dynamic waypointing) can execute tight, fluid turns and rapid evasive maneuvers that heavier fixed-wing drones simply cannot pull off.
+* *Agile Flight & Adaptive Pathing*: With a low-inertia 10–12 kg airframe, an adaptive motion planning system (such as real-time trajectory generation, obstacle avoidance, or dynamic waypointing) can execute tight, fluid turns and rapid evasive maneuvers that heavier fixed-wing drones simply cannot pull off.
 
 <p align="center" width="100%">
-<video src="https://github.com/user-attachments/assets/563d36e5-1c92-49e6-aa88-c873a20ddf1d" width="80%" controls></video>
+<video src="https://github.com/adoni91/assets/Shahid 136 Fixed Wing UAV Demo.mp4" width="80%" controls></video>
 </p>
 
 
